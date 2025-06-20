@@ -56,11 +56,11 @@ const AboutUs = () => {
           <h4 className="text-sm text-gray-500 font-semibold uppercase">
             Testimonials
           </h4>
-          <h2 className="text-3xl md:text-5xl font-bold mt-2 text-gray-900 leading-tight">
+          <h1 className="text-6xl font-bold mt-2 text-gray-900 leading-tight">
             What People Say
             <br />
             About Us.
-          </h2>
+          </h1>
         </motion.div>
 
         {/* Right Section */}
