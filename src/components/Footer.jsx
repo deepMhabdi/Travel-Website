@@ -18,9 +18,7 @@ const Footer = () => {
           <div className="flex flex-col items-start md:items-center">
             <h3 className="text-2xl font-semibold mb-4">ABOUT</h3>
             <p className="mb-6">
-              Welcome to Blogger, where we share tips, ideas, and inspiration on
-              daily news. Our goal is to bring fresh insights and stories to
-              readers around the world.
+              Welcome to NexaTravel, where your travel dreams come to life! We are dedicated to providing you with the best travel experiences, from breathtaking destinations to unforgettable adventures. Join us as we explore the world together.
             </p>
             <form className="flex items-center w-full max-w-sm">
               <input
@@ -75,7 +73,7 @@ const Footer = () => {
                   href="/blogs"
                   className="hover:text-green-600 transition-colors duration-300"
                 >
-                  Blogs
+                  Flights
                 </a>
               </li>
               <li>
@@ -94,7 +92,7 @@ const Footer = () => {
             <h3 className="text-2xl font-semibold mb-4">CONTACT</h3>
             <p>Miraj Pandharpur road, Bhose</p>
             <p>Taluka : Miraj, District : Sangli</p>
-            <p className="mt-4 text-black">hello@blogger</p>
+            <p className="mt-4 text-black">hello@NexaTravel</p>
             <p>8767 526 281</p>
 
             <div className="flex space-x-4 mt-6">
